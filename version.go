@@ -1,3 +1,3 @@
 package modtest
 
-const Version = "modtest/2.0.0"
+const Version = "modtest/2.1.0"
